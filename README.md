@@ -16,7 +16,7 @@ ThreeJS-based, Crossy Road-inspired, vibe coded thing
 
 ## Credits
 
-- Inspired by Crossy Road by (Hipster Whale)[https://www.hipsterwhale.com]
+- Inspired by Crossy Road by [Hipster Whale](https://www.hipsterwhale.com)
 - This tutorial was helpful: https://www.youtube.com/watch?v=vNr3_hQ3Bws
 - Made using [Cursor](https://cursor.sh). Almost all code in this project is AI-generated, with minimal human intervention.
 
@@ -31,3 +31,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Play Now!
 
 Try it out at [https://gigacorp.github.io/CrossyThree/](https://gigacorp.github.io/CrossyThree/)
+
+## Multiplayer Version
+
+A multiplayer version is currently under development! [CrossyThreeMultiplayer](https://github.com/Gigacorp/CrossyThreeMultiplayer)
